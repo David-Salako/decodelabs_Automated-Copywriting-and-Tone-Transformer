@@ -1,0 +1,29 @@
+[{
+        "product_name": "Nova Sneakers",
+        "platform": "instagram",
+        "tone": "witty",
+        "result": null,
+        "error": "GEMINI_API_KEY is not set. Create a .env file (see .env.example) with your Gemini API key from Google AI Studio."
+    },
+    {
+        "product_name": "Nova Sneakers",
+        "platform": "linkedin",
+        "tone": "professional",
+        "result": null,
+        "error": "GEMINI_API_KEY is not set. Create a .env file (see .env.example) with your Gemini API key from Google AI Studio."
+    },
+    {
+        "product_name": "FreshBrew Kettle",
+        "platform": "email",
+        "tone": "friendly",
+        "result": null,
+        "error": "GEMINI_API_KEY is not set. Create a .env file (see .env.example) with your Gemini API key from Google AI Studio."
+    },
+    {
+        "product_name": "FreshBrew Kettle",
+        "platform": "twitter",
+        "tone": "urgent",
+        "result": null,
+        "error": "GEMINI_API_KEY is not set. Create a .env file (see .env.example) with your Gemini API key from Google AI Studio."
+    }
+]
